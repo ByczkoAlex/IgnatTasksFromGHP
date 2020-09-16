@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IgnatTasksFromGHP/static/css/main.a5aa144e.chunk.css",
+    "main.js": "/IgnatTasksFromGHP/static/js/main.c945fa11.chunk.js",
+    "main.js.map": "/IgnatTasksFromGHP/static/js/main.c945fa11.chunk.js.map",
+    "runtime-main.js": "/IgnatTasksFromGHP/static/js/runtime-main.67862445.js",
+    "runtime-main.js.map": "/IgnatTasksFromGHP/static/js/runtime-main.67862445.js.map",
+    "static/js/2.6b541731.chunk.js": "/IgnatTasksFromGHP/static/js/2.6b541731.chunk.js",
+    "static/js/2.6b541731.chunk.js.map": "/IgnatTasksFromGHP/static/js/2.6b541731.chunk.js.map",
+    "index.html": "/IgnatTasksFromGHP/index.html",
+    "precache-manifest.08d18f5e7455d0b14eaaa913c7a23d9f.js": "/IgnatTasksFromGHP/precache-manifest.08d18f5e7455d0b14eaaa913c7a23d9f.js",
+    "service-worker.js": "/IgnatTasksFromGHP/service-worker.js",
+    "static/css/main.a5aa144e.chunk.css.map": "/IgnatTasksFromGHP/static/css/main.a5aa144e.chunk.css.map",
+    "static/js/2.6b541731.chunk.js.LICENSE.txt": "/IgnatTasksFromGHP/static/js/2.6b541731.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67862445.js",
+    "static/js/2.6b541731.chunk.js",
+    "static/css/main.a5aa144e.chunk.css",
+    "static/js/main.c945fa11.chunk.js"
+  ]
+}
